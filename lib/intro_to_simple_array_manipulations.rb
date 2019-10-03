@@ -35,6 +35,9 @@ fam_r1 = ['a','b','c','d','e','f']
 fam_r1.delete('c')
 p fam_r1
 
+fam_r1 = ['a','b','c','d','e','f']
+fam_r1.delete(2 ,fam_r1)
+p fam_r1
 
 
 
